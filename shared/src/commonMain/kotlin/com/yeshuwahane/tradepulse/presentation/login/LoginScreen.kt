@@ -444,7 +444,7 @@ class LoginScreen : Screen {
                                 UserRole.ADMIN -> {
                                     AutoFillButton(
                                         label = "Chief Admin (Admin)",
-                                        email = "admin@zeerostock.com",
+                                        email = "admin@tradepulse.com",
                                         psw = "admin123",
                                         onClick = {
                                             viewModel.onIntent(LoginIntent.UpdateEmail("admin@zeerostock.com"))
@@ -454,7 +454,7 @@ class LoginScreen : Screen {
                                     Spacer(modifier = Modifier.height(8.dp))
                                     AutoFillButton(
                                         label = "Operations Manager (Admin)",
-                                        email = "manager@zeerostock.com",
+                                        email = "manager@tradepulse.com",
                                         psw = "manager123",
                                         onClick = {
                                             viewModel.onIntent(LoginIntent.UpdateEmail("manager@zeerostock.com"))
