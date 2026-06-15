@@ -447,7 +447,7 @@ class LoginScreen : Screen {
                                         email = "admin@tradepulse.com",
                                         psw = "admin123",
                                         onClick = {
-                                            viewModel.onIntent(LoginIntent.UpdateEmail("admin@zeerostock.com"))
+                                            viewModel.onIntent(LoginIntent.UpdateEmail("admin@tradepulse.com"))
                                             viewModel.onIntent(LoginIntent.UpdatePassword("admin123"))
                                         }
                                     )
@@ -457,7 +457,7 @@ class LoginScreen : Screen {
                                         email = "manager@tradepulse.com",
                                         psw = "manager123",
                                         onClick = {
-                                            viewModel.onIntent(LoginIntent.UpdateEmail("manager@zeerostock.com"))
+                                            viewModel.onIntent(LoginIntent.UpdateEmail("manager@tradepulse.com"))
                                             viewModel.onIntent(LoginIntent.UpdatePassword("manager123"))
                                         }
                                     )

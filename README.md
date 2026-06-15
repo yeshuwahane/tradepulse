@@ -10,7 +10,7 @@ TradePulse , Offline First Mobile App (Compose Multiplatform)
 - **Mobile App Repository**: [github.com/yeshuwahane/tradepulse](https://github.com/yeshuwahane/tradepulse)
 - **Backend API Repository**: [github.com/yeshuwahane/tradepulse_api](https://github.com/yeshuwahane/tradepulse_api)
 
-[//]: # (- ** Android Build**: [Download TradePulse APK]&#40;https://github.com/yeshuwahane/tradepulse/releases/tag/release&#41;)
+- ** Android Build**: [Download TradePulse APK](https://github.com/yeshuwahane/tradepulse/releases/tag/pre-release)
 
 ---
 
