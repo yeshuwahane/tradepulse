@@ -91,3 +91,4 @@ graph TD
 .
 
 ### added CI/CD
+1. uploading build in github release
